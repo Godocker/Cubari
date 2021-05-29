@@ -75,7 +75,15 @@
         "Fukashigi": "/proxy/api/imgur/chapter/tVBiQgn/"
       },
       "last_updated": "1622128390"
-    } 
+    },
+     "10": {
+      "title": "Gyaru and Eating Around",
+      "volume": "1",
+      "groups": {
+        "Fukashigi": "/proxy/api/imgur/chapter/CRKnrfx/"
+      },
+      "last_updated": 1622277332
+     }
   },
   "cover": "https://i.imgur.com/CRKbIo0.png"
 }
