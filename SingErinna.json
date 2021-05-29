@@ -1,0 +1,943 @@
+{
+  "title": "Sing, Erinna!",
+  "description": "Ancient Greece. Erinna is a bit of a strange girl who aspires to join the ranks of Greece&rsquo;s finest artists\u30fcthe poets. ",
+  "artist": "Futaba Sato",
+  "author": "Futaba Sato",
+  "chapters": {
+    "1": {
+      "title": "Poetess\u2019 Apprentice",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/GEtVvi4/"
+      },
+      "last_updated": 1621219323
+    },
+    "2": {
+      "title": "Maidens",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/5lYBeZS/"
+      },
+      "last_updated": 1524933315
+    },
+    "3": {
+      "title": "Elegance",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/75hU5oO/"
+      },
+      "last_updated": 1525018207
+    },
+    "4": {
+      "title": "Chapter 4",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/CvMEzWg/"
+      },
+      "last_updated": 1525018210
+    },
+    "5": {
+      "title": "Goddesses of Poetry",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/MEw1j3Q/"
+      },
+      "last_updated": 1525104602
+    },
+    "6": {
+      "title": "Education",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Bi3caHN/"
+      },
+      "last_updated": 1525104611
+    },
+    "7": {
+      "title": "Weaving",
+      "volume": "1",
+      "groups": {},
+      "last_updated": 1525213439
+    },
+    "8": {
+      "title": "Hera",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/V9Ht9BI/"
+      },
+      "last_updated": 1525213450
+    },
+    "9": {
+      "title": "About Sappho",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/QzhSJin/"
+      },
+      "last_updated": 1525282864
+    },
+    "10": {
+      "title": "Work",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xkD8fhI/"
+      },
+      "last_updated": 1525282877
+    },
+    "11": {
+      "title": "Wreath",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/8XWCUIE/"
+      },
+      "last_updated": 1525363838
+    },
+    "12": {
+      "title": "Harp",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/SxbFLpP/"
+      },
+      "last_updated": 1525363849
+    },
+    "13": {
+      "title": "Unfit",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/QKZ1fpi/"
+      },
+      "last_updated": 1525363860
+    },
+    "14": {
+      "title": "Savior",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/K80UfNk/"
+      },
+      "last_updated": 1525450223
+    },
+    "15": {
+      "title": "A Poet\u2019s Bow",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/yIFBSO9/"
+      },
+      "last_updated": 1621219302
+    },
+    "16": {
+      "title": "Beauty",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/5nFgCzW/"
+      },
+      "last_updated": 1525536622
+    },
+    "17": {
+      "title": "Practice",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/2ItOdlg/"
+      },
+      "last_updated": 1525536631
+    },
+    "18": {
+      "title": "Moderation is Key",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/kJYzo8e/"
+      },
+      "last_updated": 1525623023
+    },
+    "19": {
+      "title": "Outerwear",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/fgj5dgF/"
+      },
+      "last_updated": 1525623029
+    },
+    "20": {
+      "title": "Local Specialty",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/WKqaBH5/"
+      },
+      "last_updated": 1525718549
+    },
+    "21": {
+      "title": "New Figs",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/NTszY5m/"
+      },
+      "last_updated": 1525718493
+    },
+    "22": {
+      "title": "Homer",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/cYAy71B/"
+      },
+      "last_updated": 1525795252
+    },
+    "23": {
+      "title": "Those Who Create",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/6BsEqwi/"
+      },
+      "last_updated": 1525795259
+    },
+    "24": {
+      "title": "Engagement",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/J5ysi7l/"
+      },
+      "last_updated": 1525882215
+    },
+    "25": {
+      "title": "A Girl\u2019s Way of Life",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/U77gtuX/"
+      },
+      "last_updated": 1621219282
+    },
+    "26": {
+      "title": "Wedding Song",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/7IQLWYH/"
+      },
+      "last_updated": 1525968607
+    },
+    "27": {
+      "title": "Schole",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/rzASUb6/"
+      },
+      "last_updated": 1525968615
+    },
+    "28": {
+      "title": "Wedding (1)",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/64e8GyY/"
+      },
+      "last_updated": 1526055017
+    },
+    "29": {
+      "title": "Wedding (2)",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/iHKYJfQ/"
+      },
+      "last_updated": 1526055020
+    },
+    "30": {
+      "title": "Eternal Memory",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/UJxUIFU/"
+      },
+      "last_updated": 1526055021
+    },
+    "31": {
+      "title": "Promise",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/vX45ZSY/"
+      },
+      "last_updated": 1526141411
+    },
+    "32": {
+      "title": "The Girls of Lesbos",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/HrjtPX3/"
+      },
+      "last_updated": 1526141415
+    },
+    "33": {
+      "title": "About the Agon",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/WzjRCC0/"
+      },
+      "last_updated": 1526227803
+    },
+    "34": {
+      "title": "Partheneia",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/worQlzi/"
+      },
+      "last_updated": 1526227809
+    },
+    "35": {
+      "title": "Something New",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/4R2ckg4/"
+      },
+      "last_updated": 1526314232
+    },
+    "36": {
+      "title": "Candidates",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/og3K4rP/"
+      },
+      "last_updated": 1526314240
+    },
+    "37": {
+      "title": "Example",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/1mJvIbG/"
+      },
+      "last_updated": 1526400611
+    },
+    "38": {
+      "title": "Arignota",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/oXxSC5C/"
+      },
+      "last_updated": 1526400612
+    },
+    "39": {
+      "title": "Lydian Elegance",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/616iJvP/"
+      },
+      "last_updated": 1526487010
+    },
+    "40": {
+      "title": "Halteres",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/v1ukaxg/"
+      },
+      "last_updated": 1526487016
+    },
+    "41": {
+      "title": "Voice",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/vElyK1Z/"
+      },
+      "last_updated": 1526573406
+    },
+    "42": {
+      "title": "Three-Fold",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/rTGw2AQ/"
+      },
+      "last_updated": 1526573416
+    },
+    "43": {
+      "title": "Rumor",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/MwZpx8T/"
+      },
+      "last_updated": 1526659812
+    },
+    "44": {
+      "title": "Thread Spinning",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/QzNi1K3/"
+      },
+      "last_updated": 1526659822
+    },
+    "45": {
+      "title": "Audition 1",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/JvbElRu/"
+      },
+      "last_updated": 1526746219
+    },
+    "46": {
+      "title": "Audition 2",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/WrUnbUm/"
+      },
+      "last_updated": 1526746224
+    },
+    "47": {
+      "title": "Audition 3",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/DZ2Kn0t/"
+      },
+      "last_updated": 1526746231
+    },
+    "48": {
+      "title": "Result",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/nuWfk8K/"
+      },
+      "last_updated": 1526832603
+    },
+    "49": {
+      "title": "Still Lacking",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/vMe7rug/"
+      },
+      "last_updated": 1526832609
+    },
+    "50": {
+      "title": "Preparations",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ybT22VG/"
+      },
+      "last_updated": 1526923302
+    },
+    "51": {
+      "title": "Beloved",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/QUNpEgg/"
+      },
+      "last_updated": 1526923315
+    },
+    "52": {
+      "title": "Alcaeus",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/b7dd6aD/"
+      },
+      "last_updated": 1527005409
+    },
+    "53": {
+      "title": "About Alcaeus",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ZIzw2g6/"
+      },
+      "last_updated": 1527005416
+    },
+    "54": {
+      "title": "Beloved",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/9r0fyfk/"
+      },
+      "last_updated": 1527092266
+    },
+    "55": {
+      "title": "Lycus Pretty",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/N4ken0Q/"
+      },
+      "last_updated": 1527092290
+    },
+    "56": {
+      "title": "\u201cWomen Cannot Perform Mousike\u201d",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/t1iMmYR/"
+      },
+      "last_updated": 1621219316
+    },
+    "57": {
+      "title": "Both Boys and Girls",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/G1ZKXyr/"
+      },
+      "last_updated": 1527178219
+    },
+    "58": {
+      "title": "Counterargument",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/hOZxD53/"
+      },
+      "last_updated": 1527264616
+    },
+    "59": {
+      "title": "About Mousike",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/tL40rns/"
+      },
+      "last_updated": 1527264620
+    },
+    "60": {
+      "title": "Scuffle",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/DYqnmWX/"
+      },
+      "last_updated": 1527351875
+    },
+    "61": {
+      "title": "That Girl",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/R1QCwwl/"
+      },
+      "last_updated": 1527351897
+    },
+    "62": {
+      "title": "Like Achilles",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/XILxbTn/"
+      },
+      "last_updated": 1527437414
+    },
+    "63": {
+      "title": "Imitation",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/3v5YcFR/"
+      },
+      "last_updated": 1527437420
+    },
+    "64": {
+      "title": "Coaching",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/bMcU763/"
+      },
+      "last_updated": 1527523832
+    },
+    "65": {
+      "title": "Mold",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/GDrwTCw/"
+      },
+      "last_updated": 1527523833
+    },
+    "66": {
+      "title": "Flautist",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/hkDyQzG/"
+      },
+      "last_updated": 1527618220
+    },
+    "67": {
+      "title": "Wind",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/MqXdTVj/"
+      },
+      "last_updated": 1527618227
+    },
+    "68": {
+      "title": "Expectations",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/fqdxTzP/"
+      },
+      "last_updated": 1527696903
+    },
+    "69": {
+      "title": "Rival",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/K6fRoVV/"
+      },
+      "last_updated": 1527696912
+    },
+    "70": {
+      "title": "Scouting",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/CSBEjBq/"
+      },
+      "last_updated": 1527783002
+    },
+    "71": {
+      "title": "Siren",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/bBjl0J4/"
+      },
+      "last_updated": 1527783007
+    },
+    "72": {
+      "title": "Warriors",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/7aMvMxW/"
+      },
+      "last_updated": 1527869409
+    },
+    "73": {
+      "title": "About the Iliad",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/7MVhvJc/"
+      },
+      "last_updated": 1527869410
+    },
+    "74": {
+      "title": "Insult",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/GqqCCQo/"
+      },
+      "last_updated": 1527955812
+    },
+    "75": {
+      "title": "Laughing Stock",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/NQxwxgv/"
+      },
+      "last_updated": 1527955828
+    },
+    "76": {
+      "title": "Dream",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/NHQkesa/"
+      },
+      "last_updated": 1528477539
+    },
+    "77": {
+      "title": "Courage",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/OqXHFkB/"
+      },
+      "last_updated": 1528477551
+    },
+    "78": {
+      "title": "Weights for the Soul",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/KkXsLiC/"
+      },
+      "last_updated": 1528128603
+    },
+    "79": {
+      "title": "Erinna\u2019s Fault",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/kPAivtc/"
+      },
+      "last_updated": 1621219211
+    },
+    "80": {
+      "title": "Under the Weather",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/0vRYsm0/"
+      },
+      "last_updated": 1528215019
+    },
+    "81": {
+      "title": "Fear",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/QsWqxyr/"
+      },
+      "last_updated": 1528215021
+    },
+    "82": {
+      "title": "The World",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/l05327e/"
+      },
+      "last_updated": 1528301409
+    },
+    "83": {
+      "title": "Talent",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/o006GKA/"
+      },
+      "last_updated": 1528301413
+    },
+    "84": {
+      "title": "To Play the Flute",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/uLXHNfr/"
+      },
+      "last_updated": 1528387809
+    },
+    "85": {
+      "title": "Gorgo",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/DG1QVRw/"
+      },
+      "last_updated": 1528387810
+    },
+    "86": {
+      "title": "He Who Sings Beautifully",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/JvxnJqb/"
+      },
+      "last_updated": 1528474196
+    },
+    "87": {
+      "title": "Youthful Branch",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/jo2Xh9H/"
+      },
+      "last_updated": 1528474201
+    },
+    "88": {
+      "title": "Pity",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/wzWseGR/"
+      },
+      "last_updated": 1528560615
+    },
+    "89": {
+      "title": "Logos",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ooUgnhz/"
+      },
+      "last_updated": 1528560625
+    },
+    "90": {
+      "title": "The True Rival",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/SXRoXLC/"
+      },
+      "last_updated": 1528647000
+    },
+    "91": {
+      "title": "Those Who Give Offering to the Muses",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Vt0oBFd/"
+      },
+      "last_updated": 1528647005
+    },
+    "92": {
+      "title": "Resolve",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/rieuh55/"
+      },
+      "last_updated": 1528733408
+    },
+    "93": {
+      "title": "Brides and the World",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/qlhx4oG/"
+      },
+      "last_updated": 1528733416
+    },
+    "94": {
+      "title": "Headband",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/i7AEmXP/"
+      },
+      "last_updated": 1528819823
+    },
+    "95": {
+      "title": "Day of the Festival",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/3FuCLgO/"
+      },
+      "last_updated": 1528819822
+    },
+    "96": {
+      "title": "Men\u2019s Competition",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/TSJQ1yJ/"
+      },
+      "last_updated": 1621219182
+    },
+    "97": {
+      "title": "Boys\u2019 Division",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/rtnoCR2/"
+      },
+      "last_updated": 1621219136
+    },
+    "98": {
+      "title": "The Strings He Tightened",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/C7rn1Hw/"
+      },
+      "last_updated": 1528992612
+    },
+    "99": {
+      "title": "All Over the Place",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/BBNaRTN/"
+      },
+      "last_updated": 1528992613
+    },
+    "100": {
+      "title": "Battle",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/CqBdOB5/"
+      },
+      "last_updated": 1529079003
+    },
+    "101": {
+      "title": "Our Harmonia",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Xz6CPye/"
+      },
+      "last_updated": 1529079011
+    },
+    "102": {
+      "title": "Pain",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/6x5kDuc/"
+      },
+      "last_updated": 1529079018
+    },
+    "103": {
+      "title": "Prayer",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/4Or3YKh/"
+      },
+      "last_updated": 1529165404
+    },
+    "104": {
+      "title": "Sing!",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/SrBEFrI/"
+      },
+      "last_updated": 1529165410
+    },
+    "105": {
+      "title": "Harmonia",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/XfKyozb/"
+      },
+      "last_updated": 1529251869
+    },
+    "106": {
+      "title": "Love",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Q1wfUH9/"
+      },
+      "last_updated": 1529251874
+    },
+    "107": {
+      "title": "Voice of Honey",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/3UC7SrB/"
+      },
+      "last_updated": 1529338209
+    },
+    "108": {
+      "title": "The Judges",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/HZWv5dT/"
+      },
+      "last_updated": 1529338215
+    },
+    "109": {
+      "title": "Victors and Losers",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/SUcUE4C/"
+      },
+      "last_updated": 1529338223
+    },
+    "110": {
+      "title": "Encouragement",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/op7xCDn/"
+      },
+      "last_updated": 1529424610
+    },
+    "111": {
+      "title": "Children of the Muses",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/R0nr5FC/"
+      },
+      "last_updated": 1529424611
+    },
+    "112": {
+      "title": "Path",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/9XqpylG/"
+      },
+      "last_updated": 1529511011
+    },
+    "113": {
+      "title": "An Old Song",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/CqU0IfO/"
+      },
+      "last_updated": 1529511015
+    },
+    "114": {
+      "title": "Glory",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/rcyUWq8/"
+      },
+      "last_updated": 1529597473
+    },
+    "115": {
+      "title": "Erinna\u2019s Wish",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/031KLXj/"
+      },
+      "last_updated": 1621219294
+    },
+    "116": {
+      "title": "A Thread Spinner and a Lyre",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/JeEvpeH/"
+      },
+      "last_updated": 1529597487
+    },
+    "116.5": {
+      "title": "Volume Extras",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/q4cUC3b/"
+      },
+      "last_updated": 1529683816
+    }
+  },
+  "cover": "https://i.imgur.com/jNR6tjG.png"
+}
