@@ -63,7 +63,9 @@
     "8": {
       "title": "Anaesthesiologists and Anaesthetics",
       "volume": "1",
-      "groups": {},
+      "groups": {
+      "Coronachan Scans": "/proxy/api/imgur/chapter/IbD4ltz/"
+      },
       "last_updated": 1583257166
     },
     "9": {
