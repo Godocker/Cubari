@@ -1,0 +1,4009 @@
+{
+  "title": "Mousou Telepathy",
+  "description": "Nakano-san is a high school girl who can look into people's minds. Because of that, she finds out that the mind of the popular Toda-kun is full of wild fantasies about her! Or is it?",
+  "artist": "NOBEL",
+  "author": "NOBEL",
+  "chapters": {
+    "1": {
+      "title": "Something Only Nakano-san Can See",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/sNE1n0M/"
+      },
+      "last_updated": 1517020198
+    },
+    "2": {
+      "title": "Something Toda-kun Sees",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/hCQ0HgF/"
+      },
+      "last_updated": 1517020258
+    },
+    "3": {
+      "title": "First Encounter",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/YNXDK1R/"
+      },
+      "last_updated": 1517020336
+    },
+    "4": {
+      "title": "Nobody Knows",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/lGxW02J/"
+      },
+      "last_updated": 1517020362
+    },
+    "5": {
+      "title": "Just in His Head",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/NhYJhgX/"
+      },
+      "last_updated": 1517020404
+    },
+    "6": {
+      "title": "Introduce Yourself",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/VWHg9DM/"
+      },
+      "last_updated": 1517020435
+    },
+    "7": {
+      "title": "Control",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/D8M9SIQ/"
+      },
+      "last_updated": 1517020485
+    },
+    "8": {
+      "title": "Nakano-san x 7",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Bj63iL8/"
+      },
+      "last_updated": 1517020538
+    },
+    "9": {
+      "title": "Doormat Girl",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/8rYRMpN/"
+      },
+      "last_updated": 1517020592
+    },
+    "10": {
+      "title": "Goody Two-Shoes",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/gjM2Jq6/"
+      },
+      "last_updated": 1517020624
+    },
+    "11": {
+      "title": "An Act of Kindness With an Ulterior Motive",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/5gEvVvX/"
+      },
+      "last_updated": 1517020659
+    },
+    "12": {
+      "title": "A Girl Named Azuma Manami",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/CJJfNXd/"
+      },
+      "last_updated": 1517020687
+    },
+    "13": {
+      "title": "A Battle for Supremacy",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/XEKeRYN/"
+      },
+      "last_updated": 1517020719
+    },
+    "14": {
+      "title": "Her First",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/6DpFf1M/"
+      },
+      "last_updated": 1517020750
+    },
+    "15": {
+      "title": "Relationships",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/z8UnGM7/"
+      },
+      "last_updated": 1517020796
+    },
+    "16": {
+      "title": "A vs F",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/vLn9Qij/"
+      },
+      "last_updated": 1517020861
+    },
+    "17": {
+      "title": "Do Your Maths, Nakano-San",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/IoyHcgL/"
+      },
+      "last_updated": 1517020892
+    },
+    "18": {
+      "title": "X = Delusion",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/eCBkAdy/"
+      },
+      "last_updated": 1517020918
+    },
+    "19": {
+      "title": "The Ideal and the Reality",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ikuQcTL/"
+      },
+      "last_updated": 1517020946
+    },
+    "20": {
+      "title": "Presence",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/J9iaus3/"
+      },
+      "last_updated": 1517020974
+    },
+    "21": {
+      "title": "No Good Traits",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ghhnCJW/"
+      },
+      "last_updated": 1517021007
+    },
+    "22": {
+      "title": "No Comment",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/SVwvkWf/"
+      },
+      "last_updated": 1517021033
+    },
+    "23": {
+      "title": "That Won't Happen",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/UshRFlX/"
+      },
+      "last_updated": 1517021063
+    },
+    "24": {
+      "title": "A Warning",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/65EgN2z/"
+      },
+      "last_updated": 1517021094
+    },
+    "25": {
+      "title": "Acknowledgement",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/UVgHIwv/"
+      },
+      "last_updated": 1517021122
+    },
+    "26": {
+      "title": "According to Mana",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/15U29sa/"
+      },
+      "last_updated": 1517021151
+    },
+    "27": {
+      "title": "Might Happen if You Say So",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/0zoPKjU/"
+      },
+      "last_updated": 1517021174
+    },
+    "28": {
+      "title": "With All Her Courage",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xgZ2wbJ/"
+      },
+      "last_updated": 1517021195
+    },
+    "29": {
+      "title": "And the Answer is",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/DKEq1ZP/"
+      },
+      "last_updated": 1517021223
+    },
+    "30": {
+      "title": "Just a \"What If\"",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/3JifQ4e/"
+      },
+      "last_updated": 1621219154
+    },
+    "31": {
+      "title": "A Barrage of Questions",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/tfqRp6a/"
+      },
+      "last_updated": 1517021303
+    },
+    "32": {
+      "title": "What Being Class Reps is Supposed to be Like",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/nLEgC8z/"
+      },
+      "last_updated": 1517021331
+    },
+    "33": {
+      "title": "Go on the Web to Learn More!!",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/v6eFSdA/"
+      },
+      "last_updated": 1517021350
+    },
+    "34": {
+      "title": "An Introvert \u2248 A Popular Person",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PhHJHaG/"
+      },
+      "last_updated": 1621219165
+    },
+    "35": {
+      "title": "Self-Hatred",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Bnisy7q/"
+      },
+      "last_updated": 1517021423
+    },
+    "36": {
+      "title": "Time for a Self-Reflection",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/79QVNMv/"
+      },
+      "last_updated": 1517021463
+    },
+    "37": {
+      "title": "Skipping Steps",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/S5xtiYz/"
+      },
+      "last_updated": 1517021493
+    },
+    "38": {
+      "title": "As a God, an Angel and a Little Devil",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/AqveaNB/"
+      },
+      "last_updated": 1517021517
+    },
+    "39": {
+      "title": "That Doesn't Matter Right Now",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PBFPaEW/"
+      },
+      "last_updated": 1517021552
+    },
+    "40": {
+      "title": "Hated by Everyone",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Z8gmtrc/"
+      },
+      "last_updated": 1517021577
+    },
+    "41": {
+      "title": "Shrewd Mana-chan",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PKCK3O2/"
+      },
+      "last_updated": 1517021610
+    },
+    "42": {
+      "title": "Recruitment Criteria",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/bG5q3Co/"
+      },
+      "last_updated": 1517021636
+    },
+    "43": {
+      "title": "He's Not a Stalker",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/XHBnLKX/"
+      },
+      "last_updated": 1517021664
+    },
+    "44": {
+      "title": "She Figured it Out...Probably",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Ep06mxg/"
+      },
+      "last_updated": 1517021682
+    },
+    "45": {
+      "title": "A Summon",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xNtKrFZ/"
+      },
+      "last_updated": 1517021713
+    },
+    "46": {
+      "title": "Feels Bad to be Alone",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/kU2LH4d/"
+      },
+      "last_updated": 1517021740
+    },
+    "47": {
+      "title": "You Guessed Wrong",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/hM8Oxvi/"
+      },
+      "last_updated": 1517021763
+    },
+    "48": {
+      "title": "We're Not Getting Married",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/L0xIXFe/"
+      },
+      "last_updated": 1517021779
+    },
+    "49": {
+      "title": "Bloody Thank You",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/BKHIt7S/"
+      },
+      "last_updated": 1517021810
+    },
+    "50": {
+      "title": "Used to be the Same as Them",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/uVzPuTk/"
+      },
+      "last_updated": 1517021839
+    },
+    "51": {
+      "title": "Denied",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/iEKvtTW/"
+      },
+      "last_updated": 1517074554
+    },
+    "52": {
+      "title": "Nishi Shinjuku 2-Chome",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/g9Uiep6/"
+      },
+      "last_updated": 1517074593
+    },
+    "53": {
+      "title": "Flip-Flop Man",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Nixgmaj/"
+      },
+      "last_updated": 1517074616
+    },
+    "54": {
+      "title": "A Terrifying Invitation",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/250hk9q/"
+      },
+      "last_updated": 1517074647
+    },
+    "55": {
+      "title": "Spot Toda!",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/RStESCK/"
+      },
+      "last_updated": 1517074684
+    },
+    "56": {
+      "title": "Whatever",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/WG2H0k8/"
+      },
+      "last_updated": 1517074722
+    },
+    "57": {
+      "title": "Been Watching Him For So Long",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/UWpBtGO/"
+      },
+      "last_updated": 1517074748
+    },
+    "58": {
+      "title": "A Model Answer",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/hFZu3I9/"
+      },
+      "last_updated": 1517074785
+    },
+    "59": {
+      "title": "Poker Face",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/yMtdOWf/"
+      },
+      "last_updated": 1517074807
+    },
+    "60": {
+      "title": "Don't Worry Mom",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/FpK3fH9/"
+      },
+      "last_updated": 1517074830
+    },
+    "61": {
+      "title": "Toda Fashion Week 2016",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/B8PZMrN/"
+      },
+      "last_updated": 1517074869
+    },
+    "62": {
+      "title": "This Calls for a Celebration!",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/RunGXx3/"
+      },
+      "last_updated": 1517074895
+    },
+    "63": {
+      "title": "Story of a Different World Line",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/j7Agtkv/"
+      },
+      "last_updated": 1517074914
+    },
+    "64": {
+      "title": "Harsh Fashion Check",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/5TZoAcF/"
+      },
+      "last_updated": 1517074933
+    },
+    "65": {
+      "title": "Can't Sugar-Coat It",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xVRxKim/"
+      },
+      "last_updated": 1517074956
+    },
+    "66": {
+      "title": "Clothing Shops Are Scary",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/DkKG86E/"
+      },
+      "last_updated": 1517074992
+    },
+    "67": {
+      "title": "Getting Carried Away",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/17DT9MR/"
+      },
+      "last_updated": 1517075018
+    },
+    "68": {
+      "title": "32 kmh",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/UGDcJGl/"
+      },
+      "last_updated": 1517075038
+    },
+    "69": {
+      "title": "Seat Change",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/L5ALPdz/"
+      },
+      "last_updated": 1517075055
+    },
+    "70": {
+      "title": "Chapter 70",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PoKAsnT/"
+      },
+      "last_updated": 1517075078
+    },
+    "71": {
+      "title": "Wait Outside",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/TzbTcfX/"
+      },
+      "last_updated": 1517075102
+    },
+    "72": {
+      "title": "Worried as a Friend",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/SjpI5zg/"
+      },
+      "last_updated": 1517075132
+    },
+    "73": {
+      "title": "Night Before the School Trip",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/5lIpFdo/"
+      },
+      "last_updated": 1517075151
+    },
+    "74": {
+      "title": "Relieved",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/1kLFEn2/"
+      },
+      "last_updated": 1517075173
+    },
+    "75": {
+      "title": "Biggest in Japan",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/GO1kOpn/"
+      },
+      "last_updated": 1517075194
+    },
+    "76": {
+      "title": "Inversely Excited",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/YasOs4i/"
+      },
+      "last_updated": 1517075234
+    },
+    "77": {
+      "title": "A Fap Memento",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/1sNZ9wU/"
+      },
+      "last_updated": 1517075256
+    },
+    "78": {
+      "title": "The Morning in Tokyo",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/eUPEWyN/"
+      },
+      "last_updated": 1517075296
+    },
+    "79": {
+      "title": "This is",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/1KW3f2U/"
+      },
+      "last_updated": 1517075324
+    },
+    "80": {
+      "title": "Panic Train",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ZdQeh1b/"
+      },
+      "last_updated": 1517075342
+    },
+    "81": {
+      "title": "Nakano Separated",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/5mmSb9t/"
+      },
+      "last_updated": 1517075374
+    },
+    "82": {
+      "title": "Moment of Despair",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/26BfhX0/"
+      },
+      "last_updated": 1517075394
+    },
+    "83": {
+      "title": "A Loud Call",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/dMttzHD/"
+      },
+      "last_updated": 1517075416
+    },
+    "84": {
+      "title": "Lightning Strike Warning",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/i73OeU3/"
+      },
+      "last_updated": 1517075437
+    },
+    "85": {
+      "title": "Can't Say It Out Loud",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/lu1wdi5/"
+      },
+      "last_updated": 1517075458
+    },
+    "86": {
+      "title": "An Unfair Thought",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/28wZJpT/"
+      },
+      "last_updated": 1517075521
+    },
+    "87": {
+      "title": "Boys Being Boys",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/WSgsgXG/"
+      },
+      "last_updated": 1517075542
+    },
+    "88": {
+      "title": "Acceptance and Resolve",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/B0T0rbh/"
+      },
+      "last_updated": 1517075571
+    },
+    "89": {
+      "title": "A Companion",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/2xNxWXi/"
+      },
+      "last_updated": 1517075590
+    },
+    "90": {
+      "title": "Popularity Arrives",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/E2U2tSV/"
+      },
+      "last_updated": 1517075612
+    },
+    "91": {
+      "title": "Dinner",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/tquzP8Z/"
+      },
+      "last_updated": 1517075644
+    },
+    "92": {
+      "title": "He Said It Himself",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PTiVDSz/"
+      },
+      "last_updated": 1517075668
+    },
+    "93": {
+      "title": "Hissy Fit",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/CAE7v1R/"
+      },
+      "last_updated": 1517075689
+    },
+    "94": {
+      "title": "Too Much White Noise",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/dFYo1Kj/"
+      },
+      "last_updated": 1517075708
+    },
+    "95": {
+      "title": "Awkward",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/DZGuEVv/"
+      },
+      "last_updated": 1517075727
+    },
+    "96": {
+      "title": "\u300c \u300d",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/1WZ34Ej/"
+      },
+      "last_updated": 1517075763
+    },
+    "97": {
+      "title": "It Had Already Started",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/acNL4mh/"
+      },
+      "last_updated": 1517075784
+    },
+    "98": {
+      "title": "Lie",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/KvmYEYV/"
+      },
+      "last_updated": 1517075803
+    },
+    "99": {
+      "title": "Called Out",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/4oCCpsB/"
+      },
+      "last_updated": 1517075822
+    },
+    "100": {
+      "title": "I Hate You",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/yJUEwiG/"
+      },
+      "last_updated": 1517075843
+    },
+    "101": {
+      "title": "No Laughing Matter",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/REtSYR0/"
+      },
+      "last_updated": 1517076185
+    },
+    "102": {
+      "title": "Mind Gone Blank",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/wDbza4E/"
+      },
+      "last_updated": 1517076244
+    },
+    "102.5": {
+      "title": "Volume 1: Extras",
+      "volume": "1",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/rdFaPgD/"
+      },
+      "last_updated": 1517076299
+    },
+    "103": {
+      "title": "Good Point",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/VTkugf6/"
+      },
+      "last_updated": 1517076332
+    },
+    "104": {
+      "title": "Digging a Deeper Grave",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/vxCYPiO/"
+      },
+      "last_updated": 1517076353
+    },
+    "105": {
+      "title": "Desperation",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/g0E3uKy/"
+      },
+      "last_updated": 1517076378
+    },
+    "106": {
+      "title": "New Perk",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/8BuInP3/"
+      },
+      "last_updated": 1517076395
+    },
+    "107": {
+      "title": "Not Gonna Let You Sleep Tonight",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/zIYLRI3/"
+      },
+      "last_updated": 1517076414
+    },
+    "108": {
+      "title": "Her Father and Brother",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/W5udRVH/"
+      },
+      "last_updated": 1517076435
+    },
+    "109": {
+      "title": "All According to Plan",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Z6vnQKx/"
+      },
+      "last_updated": 1517076455
+    },
+    "110": {
+      "title": "Can't Look at Her That Way",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/u38W7Pk/"
+      },
+      "last_updated": 1517076482
+    },
+    "111": {
+      "title": "An Important Detail",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/gnQcRUH/"
+      },
+      "last_updated": 1517076507
+    },
+    "112": {
+      "title": "Not a Goddess, But Merely a Girl",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xY4q1RZ/"
+      },
+      "last_updated": 1517076526
+    },
+    "113": {
+      "title": "Interested",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/BqYpkxO/"
+      },
+      "last_updated": 1517076544
+    },
+    "114": {
+      "title": "Girls Meeting in a Bathroom",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/goAks6j/"
+      },
+      "last_updated": 1517076563
+    },
+    "115": {
+      "title": "Grumpy No Matter What",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PyyzDFJ/"
+      },
+      "last_updated": 1517076590
+    },
+    "116": {
+      "title": "Time for Retrospection",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/3FIXizo/"
+      },
+      "last_updated": 1517076607
+    },
+    "117": {
+      "title": "He's Aware",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/kpHMQvX/"
+      },
+      "last_updated": 1517076624
+    },
+    "118": {
+      "title": "Hit By Stray Arrows",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/C2Oz0Lv/"
+      },
+      "last_updated": 1517076645
+    },
+    "119": {
+      "title": "You Did Great",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/F4a66D2/"
+      },
+      "last_updated": 1517076664
+    },
+    "120": {
+      "title": "For Someone Else",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/pSuznS9/"
+      },
+      "last_updated": 1517076694
+    },
+    "121": {
+      "title": "Operation Leaked",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/aWjKieN/"
+      },
+      "last_updated": 1517076713
+    },
+    "122": {
+      "title": "Secretly Hurt",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/d5nc7bS/"
+      },
+      "last_updated": 1517076739
+    },
+    "123": {
+      "title": "The Murder of Yashima-kun",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/APvuyJL/"
+      },
+      "last_updated": 1517076760
+    },
+    "124": {
+      "title": "Don't Cry",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/uqj6VwN/"
+      },
+      "last_updated": 1517076779
+    },
+    "125": {
+      "title": "Sent Off",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/pqWI92p/"
+      },
+      "last_updated": 1517076813
+    },
+    "126": {
+      "title": "She's Thought About It",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/zVSomyy/"
+      },
+      "last_updated": 1517077142
+    },
+    "127": {
+      "title": "My Idle Thoughts To You",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/QCu9jWP/"
+      },
+      "last_updated": 1517077170
+    },
+    "128": {
+      "title": "Already Been Said a Lot",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/llPUYdo/"
+      },
+      "last_updated": 1517077190
+    },
+    "129": {
+      "title": "Wrapped Around Her Finger",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/OuZ3uEa/"
+      },
+      "last_updated": 1517077210
+    },
+    "130": {
+      "title": "Maternal Instincts Kicking In",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/UZ5VprF/"
+      },
+      "last_updated": 1517077234
+    },
+    "131": {
+      "title": "First Time Anyone Asked",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/sMXZyyO/"
+      },
+      "last_updated": 1517077268
+    },
+    "132": {
+      "title": "3 Hours of Blind Love",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/exFbsIh/"
+      },
+      "last_updated": 1517077288
+    },
+    "133": {
+      "title": "ButButButBut",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/54KNvWl/"
+      },
+      "last_updated": 1517077309
+    },
+    "134": {
+      "title": "He Was Behind Her",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PmEj82c/"
+      },
+      "last_updated": 1517077342
+    },
+    "135": {
+      "title": "Busy",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Nsvw3mR/"
+      },
+      "last_updated": 1517077363
+    },
+    "136": {
+      "title": "A Horrible Husband",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/RgkGtfh/"
+      },
+      "last_updated": 1517077397
+    },
+    "137": {
+      "title": "Self-Admonition",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/CSliof7/"
+      },
+      "last_updated": 1517077416
+    },
+    "138": {
+      "title": "That's a Bit Too Strict",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xncAKQx/"
+      },
+      "last_updated": 1517077444
+    },
+    "139": {
+      "title": "Better Clean Up Later",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/y8ihsdT/"
+      },
+      "last_updated": 1517077466
+    },
+    "140": {
+      "title": "A Cunning Plan",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/0AxjIsm/"
+      },
+      "last_updated": 1517077488
+    },
+    "141": {
+      "title": "Always Cute",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/60omRa9/"
+      },
+      "last_updated": 1517077508
+    },
+    "142": {
+      "title": "Evasive Maneuvers",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/DN4gfZf/"
+      },
+      "last_updated": 1517077530
+    },
+    "143": {
+      "title": "Mistake the Means For the End",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/l5dRtQz/"
+      },
+      "last_updated": 1517077553
+    },
+    "144": {
+      "title": "He's Serious",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/7krIzkR/"
+      },
+      "last_updated": 1517077572
+    },
+    "145": {
+      "title": "I Know",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/MLnanhb/"
+      },
+      "last_updated": 1517077602
+    },
+    "146": {
+      "title": "Both Lead To the Same Result",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/adDFKZa/"
+      },
+      "last_updated": 1517077973
+    },
+    "147": {
+      "title": "A Mom Knows",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/78yOpjM/"
+      },
+      "last_updated": 1517077992
+    },
+    "148": {
+      "title": "Grew Up With Shoujo Manga",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/My20N8C/"
+      },
+      "last_updated": 1517078011
+    },
+    "149": {
+      "title": "Can't Stop",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/7RU6Y00/"
+      },
+      "last_updated": 1517078031
+    },
+    "150": {
+      "title": "No Matter What",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/OEe3tgu/"
+      },
+      "last_updated": 1517078055
+    },
+    "151": {
+      "title": "The Blue Ogre Doesn't Exist",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/i4TGgIe/"
+      },
+      "last_updated": 1517117948
+    },
+    "152": {
+      "title": "We Can't",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/wELyvoM/"
+      },
+      "last_updated": 1517117966
+    },
+    "153": {
+      "title": "No Resets",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/9t4wOwq/"
+      },
+      "last_updated": 1517117999
+    },
+    "154": {
+      "title": "Return of the Little Devil",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/3gMiBA8/"
+      },
+      "last_updated": 1517118020
+    },
+    "155": {
+      "title": "An Inser... Injection",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/fH85I2Q/"
+      },
+      "last_updated": 1517118041
+    },
+    "156": {
+      "title": "Change",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Mgq5y4z/"
+      },
+      "last_updated": 1517118076
+    },
+    "157": {
+      "title": "Pandora's Box",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Bnm7JIZ/"
+      },
+      "last_updated": 1517118103
+    },
+    "158": {
+      "title": "Strictly Better",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/jb4yav6/"
+      },
+      "last_updated": 1517118134
+    },
+    "159": {
+      "title": "A Week of Hell",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/VidFjRU/"
+      },
+      "last_updated": 1517118162
+    },
+    "160": {
+      "title": "Toggled On Cheats",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/tlOTBsM/"
+      },
+      "last_updated": 1517118185
+    },
+    "161": {
+      "title": "Grew Up with S\u00cc\u00b6h\u00cc\u00b6o\u00cc\u00b6u\u00cc\u00b6n\u00cc\u00b6e\u00cc\u00b6n\u00cc\u00b6 Hentai Manga",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/iot251u/"
+      },
+      "last_updated": 1621219308
+    },
+    "162": {
+      "title": "Can\u2019t Say It",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/TSy982n/"
+      },
+      "last_updated": 1621219176
+    },
+    "163": {
+      "title": "A Water Dripping Weird Guy",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/fvZrQqy/"
+      },
+      "last_updated": 1517118388
+    },
+    "164": {
+      "title": "Calm Nakano",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/yODrdiY/"
+      },
+      "last_updated": 1517118440
+    },
+    "165": {
+      "title": "Too Easy",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/dbl9a7J/"
+      },
+      "last_updated": 1517118466
+    },
+    "166": {
+      "title": "That's Where He's Different",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/gx6dtvX/"
+      },
+      "last_updated": 1517118487
+    },
+    "167": {
+      "title": "Tell It Like It Is",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/O7NLmoB/"
+      },
+      "last_updated": 1517118515
+    },
+    "168": {
+      "title": "Like Nothing Happened",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/JsW9dXt/"
+      },
+      "last_updated": 1517118537
+    },
+    "169": {
+      "title": "Mom, You're Too Easy",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/nJizpzE/"
+      },
+      "last_updated": 1517118558
+    },
+    "170": {
+      "title": "Animals Are Awesome",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/WmVZtBB/"
+      },
+      "last_updated": 1517118578
+    },
+    "171": {
+      "title": "You're All Okay With It",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ZMeq9tt/"
+      },
+      "last_updated": 1517118609
+    },
+    "172": {
+      "title": "Shimizu the Loyal Dog",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PnP4A8X/"
+      },
+      "last_updated": 1517118628
+    },
+    "173": {
+      "title": "On Guard Even Against a Junior",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/FSwLQr1/"
+      },
+      "last_updated": 1517118648
+    },
+    "174": {
+      "title": "Jealous of a Junior",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xMVGbZ1/"
+      },
+      "last_updated": 1517118667
+    },
+    "175": {
+      "title": "Rubbing It In",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/lbyy3wT/"
+      },
+      "last_updated": 1517118691
+    },
+    "176": {
+      "title": "Hayato Scolds",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/cxLwvFe/"
+      },
+      "last_updated": 1517148929
+    },
+    "177": {
+      "title": "Smiles More When She\u2019s Feeling Unpleasant",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/thYup8q/"
+      },
+      "last_updated": 1621219153
+    },
+    "178": {
+      "title": "A Good Senpai",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Osvh0Af/"
+      },
+      "last_updated": 1517148982
+    },
+    "179": {
+      "title": "Who",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PjCGGL8/"
+      },
+      "last_updated": 1517149011
+    },
+    "180": {
+      "title": "Now It's Official",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/8GawxjW/"
+      },
+      "last_updated": 1517149036
+    },
+    "181": {
+      "title": "Sister",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/8G8SUS6/"
+      },
+      "last_updated": 1517149067
+    },
+    "182": {
+      "title": "There's History To His Taste",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/eTIAGon/"
+      },
+      "last_updated": 1517149091
+    },
+    "183": {
+      "title": "Fist Pump",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/rFkGPQz/"
+      },
+      "last_updated": 1517149116
+    },
+    "184": {
+      "title": "He's Usually The One Who Teaches",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/SpxYeY6/"
+      },
+      "last_updated": 1517149172
+    },
+    "185": {
+      "title": "So You Like Him",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/zpeZx0G/"
+      },
+      "last_updated": 1517149189
+    },
+    "186": {
+      "title": "An Experiment",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/yDiq3V2/"
+      },
+      "last_updated": 1517149215
+    },
+    "187": {
+      "title": "Back To Reality",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xNwkSBv/"
+      },
+      "last_updated": 1517149231
+    },
+    "188": {
+      "title": "Honest Yashima",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/pEAwSmV/"
+      },
+      "last_updated": 1517149271
+    },
+    "189": {
+      "title": "Unavoidable Cheating",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ZFUsAWc/"
+      },
+      "last_updated": 1517149303
+    },
+    "190": {
+      "title": "Passed the Point of Making Fun",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/f4hmQDz/"
+      },
+      "last_updated": 1517149324
+    },
+    "191": {
+      "title": "Although Their Expressions are the Same",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/XfOdQGG/"
+      },
+      "last_updated": 1517149353
+    },
+    "192": {
+      "title": "Never Underestimate Your Opponent",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/1ZT3gtK/"
+      },
+      "last_updated": 1517149371
+    },
+    "193": {
+      "title": "Shimizu, the Iron Wall",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/SoNcPcm/"
+      },
+      "last_updated": 1517149393
+    },
+    "194": {
+      "title": "A Matter of Course",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/OqJnYoL/"
+      },
+      "last_updated": 1517149412
+    },
+    "195": {
+      "title": "Only He Knows",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/vYVJ4MB/"
+      },
+      "last_updated": 1517149429
+    },
+    "196": {
+      "title": "Strategy Meeting",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xlGYemN/"
+      },
+      "last_updated": 1517149453
+    },
+    "197": {
+      "title": "It's a Strength To Swallow Your Pride",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/LVOxWLT/"
+      },
+      "last_updated": 1517149473
+    },
+    "198": {
+      "title": "Back to Square One",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/RHPho5Y/"
+      },
+      "last_updated": 1517149491
+    },
+    "199": {
+      "title": "Collapse",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/UtlTM0f/"
+      },
+      "last_updated": 1517149511
+    },
+    "200": {
+      "title": "Miracle in the Last 3 Minutes",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/N2KqVe8/"
+      },
+      "last_updated": 1517149542
+    },
+    "201": {
+      "title": "A Summer Dream",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/y62tvml/"
+      },
+      "last_updated": 1517153408
+    },
+    "202": {
+      "title": "Uncalled For",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/iGDsx0G/"
+      },
+      "last_updated": 1517153426
+    },
+    "203": {
+      "title": "Useless Psychic",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/r81lB98/"
+      },
+      "last_updated": 1517153441
+    },
+    "204": {
+      "title": "Alienated",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/viZDKra/"
+      },
+      "last_updated": 1517153460
+    },
+    "205": {
+      "title": "A Crack",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/DlGPPOc/"
+      },
+      "last_updated": 1517153482
+    },
+    "206": {
+      "title": "Oasis",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/39hmDKb/"
+      },
+      "last_updated": 1517153508
+    },
+    "207": {
+      "title": "Lost For Words",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/H7iO3Zg/"
+      },
+      "last_updated": 1517153536
+    },
+    "208": {
+      "title": "The Color of Tears",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/fE1UYcB/"
+      },
+      "last_updated": 1517153559
+    },
+    "209": {
+      "title": "Her Words Back Then",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/DfVB5Xn/"
+      },
+      "last_updated": 1517153578
+    },
+    "209.5": {
+      "title": "Volume 02 Extras",
+      "volume": "2",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/8tZ3qsP/"
+      },
+      "last_updated": 1517153623
+    },
+    "210": {
+      "title": "That Day",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/8UdOM4H/"
+      },
+      "last_updated": 1517153660
+    },
+    "211": {
+      "title": "Lost",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ApdJbmw/"
+      },
+      "last_updated": 1517153693
+    },
+    "212": {
+      "title": "Found",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/tbisbB5/"
+      },
+      "last_updated": 1517153714
+    },
+    "213": {
+      "title": "Going Back",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Bm9ZMFY/"
+      },
+      "last_updated": 1517153739
+    },
+    "214": {
+      "title": "Moving Forwards",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Xwwvw8l/"
+      },
+      "last_updated": 1517153770
+    },
+    "215": {
+      "title": "He was Found",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/osHHVLV/"
+      },
+      "last_updated": 1517153793
+    },
+    "216": {
+      "title": "She Found Him",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/lODN1Hz/"
+      },
+      "last_updated": 1517153816
+    },
+    "217": {
+      "title": "Mine",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/jR7H6Hq/"
+      },
+      "last_updated": 1517153834
+    },
+    "218": {
+      "title": "Yours",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/IGPOoh9/"
+      },
+      "last_updated": 1517153856
+    },
+    "219": {
+      "title": "Q",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/kkCEHMa/"
+      },
+      "last_updated": 1517153873
+    },
+    "220": {
+      "title": "A",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/XCviVAk/"
+      },
+      "last_updated": 1517153892
+    },
+    "221": {
+      "title": "A Finder of Someone's Lost Property",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ZTCc6r4/"
+      },
+      "last_updated": 1517153917
+    },
+    "222": {
+      "title": "A Finder of Someone's Heart",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/4NLGtEx/"
+      },
+      "last_updated": 1517153945
+    },
+    "223": {
+      "title": "There's No Way He Can Say It",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/eVWwe0I/"
+      },
+      "last_updated": 1517153963
+    },
+    "224": {
+      "title": "Nobody Like Him",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/38VemmK/"
+      },
+      "last_updated": 1517153980
+    },
+    "225": {
+      "title": "Switched On",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/jOo3VgR/"
+      },
+      "last_updated": 1517154003
+    },
+    "226": {
+      "title": "And Then She Self-Destructed",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/RKEcHRj/"
+      },
+      "last_updated": 1517165763
+    },
+    "227": {
+      "title": "Level 3 Nakano Interpreter",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/CvzbUWq/"
+      },
+      "last_updated": 1517165780
+    },
+    "228": {
+      "title": "Yes, It Is",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/QqgzJg2/"
+      },
+      "last_updated": 1517165808
+    },
+    "229": {
+      "title": "Not You",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/S3gj1Sk/"
+      },
+      "last_updated": 1517165842
+    },
+    "230": {
+      "title": "Not Enough Skill Points",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/gnvZn4i/"
+      },
+      "last_updated": 1517165878
+    },
+    "231": {
+      "title": "I Thought I Said Something Nice",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/1RECrRy/"
+      },
+      "last_updated": 1517165913
+    },
+    "232": {
+      "title": "Hm",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/sStuIy3/"
+      },
+      "last_updated": 1517165936
+    },
+    "233": {
+      "title": "Silence",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/tTFsfNd/"
+      },
+      "last_updated": 1517165952
+    },
+    "234": {
+      "title": "I Love You, Senpai",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/CefJRlY/"
+      },
+      "last_updated": 1517165966
+    },
+    "235": {
+      "title": "Can't Win At Anything",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/21mgnIX/"
+      },
+      "last_updated": 1517165984
+    },
+    "236": {
+      "title": "Don't Look at Me",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/rl1P8UC/"
+      },
+      "last_updated": 1517166041
+    },
+    "237": {
+      "title": "Revised",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/isrw0G3/"
+      },
+      "last_updated": 1517166057
+    },
+    "238": {
+      "title": "Meaningless Competition",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/SR8dNzP/"
+      },
+      "last_updated": 1517166071
+    },
+    "239": {
+      "title": "Self-Degradation",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/UYGonlx/"
+      },
+      "last_updated": 1517166104
+    },
+    "240": {
+      "title": "It Won\u2019t Be That Easy",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/7nAo6s4/"
+      },
+      "last_updated": 1621219153
+    },
+    "241": {
+      "title": "The Obvious Punchline",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/NjXEJX2/"
+      },
+      "last_updated": 1517166148
+    },
+    "242": {
+      "title": "A Girl's Swimsuit and Her Emotions",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/79U0geu/"
+      },
+      "last_updated": 1517166164
+    },
+    "243": {
+      "title": "Best Summer Ever",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/XCoDZyG/"
+      },
+      "last_updated": 1517166186
+    },
+    "244": {
+      "title": "Best Death Ever",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/A7JHXdo/"
+      },
+      "last_updated": 1517166210
+    },
+    "245": {
+      "title": "Can\u2019t Take It Any Longer",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/FLQTWRK/"
+      },
+      "last_updated": 1621219320
+    },
+    "246": {
+      "title": "Depicting a Yukata",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/8SEBw0N/"
+      },
+      "last_updated": 1517167378
+    },
+    "247": {
+      "title": "Close, But No Kitty",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/twDLieu/"
+      },
+      "last_updated": 1517167284
+    },
+    "248": {
+      "title": "His Invitation Comes Like a Hurricane",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Nc51U3g/"
+      },
+      "last_updated": 1517167306
+    },
+    "249": {
+      "title": "Yashima's Betrayal",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/wZk6uo7/"
+      },
+      "last_updated": 1517167326
+    },
+    "250": {
+      "title": "A Double Date Proposal",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/w89eBEU/"
+      },
+      "last_updated": 1517167347
+    },
+    "251": {
+      "title": "Basically a Purple Dog",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/mehmUhy/"
+      },
+      "last_updated": 1517168129
+    },
+    "252": {
+      "title": "Way Too Late",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/tq5IhnI/"
+      },
+      "last_updated": 1517168147
+    },
+    "253": {
+      "title": "A Barrage of Compliments",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xWtrCn2/"
+      },
+      "last_updated": 1517168164
+    },
+    "254": {
+      "title": "Azuma Psychic Research Lab",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ZIvkMlr/"
+      },
+      "last_updated": 1517168180
+    },
+    "255": {
+      "title": "Like a Doting Parent",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/pkk2EEH/"
+      },
+      "last_updated": 1517168196
+    },
+    "256": {
+      "title": "Uh",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/7cUOhRm/"
+      },
+      "last_updated": 1517168225
+    },
+    "257": {
+      "title": "CV Toda Hayato",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/m7ZXQaZ/"
+      },
+      "last_updated": 1517168242
+    },
+    "258": {
+      "title": "More Engaging Than Games",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/dt5oVst/"
+      },
+      "last_updated": 1517168261
+    },
+    "259": {
+      "title": "Cut",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/sD48QtG/"
+      },
+      "last_updated": 1517168279
+    },
+    "260": {
+      "title": "The Name in His Mind",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/E9xqk4t/"
+      },
+      "last_updated": 1517168296
+    },
+    "261": {
+      "title": "Selfish Mana",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/XxMMDPB/"
+      },
+      "last_updated": 1517168321
+    },
+    "262": {
+      "title": "She Won't Answer",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/TX1LMN0/"
+      },
+      "last_updated": 1517168335
+    },
+    "263": {
+      "title": "She Doesn't Feel Down Anymore",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/zZmNpTl/"
+      },
+      "last_updated": 1517168352
+    },
+    "264": {
+      "title": "Let's Go Home Together",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/MiJtd2x/"
+      },
+      "last_updated": 1517168369
+    },
+    "265": {
+      "title": "Disciplinary Destruction Committee",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/LQW03GC/"
+      },
+      "last_updated": 1517168386
+    },
+    "266": {
+      "title": "Pansies",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/vOMaAFs/"
+      },
+      "last_updated": 1517168408
+    },
+    "267": {
+      "title": "Straight to the Point",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/rtI6hx1/"
+      },
+      "last_updated": 1517168422
+    },
+    "268": {
+      "title": "2016 New Year's Eve SP",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/0as3k96/"
+      },
+      "last_updated": 1517168436
+    },
+    "269": {
+      "title": "2017 New Year's SP",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/9Z3Vxhw/"
+      },
+      "last_updated": 1517168457
+    },
+    "270": {
+      "title": "2017 New Year's SP",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/IBaJSvO/"
+      },
+      "last_updated": 1517168479
+    },
+    "271": {
+      "title": "2017 New Years SP \u201cFirst Dream of the Year\u201d",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/NayKMrM/"
+      },
+      "last_updated": 1621219256
+    },
+    "272": {
+      "title": "Why",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Yt5Z9OS/"
+      },
+      "last_updated": 1517168520
+    },
+    "273": {
+      "title": "Already on the Edge of the Cliff",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/eNXzvbR/"
+      },
+      "last_updated": 1517168549
+    },
+    "274": {
+      "title": "A Childhood Friend's Intuition",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Sli7DJD/"
+      },
+      "last_updated": 1517168572
+    },
+    "275": {
+      "title": "An Incomplete Plan",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/jJ5WAgD/"
+      },
+      "last_updated": 1517168589
+    },
+    "276": {
+      "title": "Seaweed Bursting Out",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xvItNKu/"
+      },
+      "last_updated": 1517193500
+    },
+    "277": {
+      "title": "I'm Impressed by the Kids Nowadays",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/fugsxVy/"
+      },
+      "last_updated": 1517193544
+    },
+    "278": {
+      "title": "Trespassing (Given Permission)",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/QDqVuWF/"
+      },
+      "last_updated": 1517193565
+    },
+    "279": {
+      "title": "A Rough Question, A Rough Answer",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/EpX4fS2/"
+      },
+      "last_updated": 1517193584
+    },
+    "280": {
+      "title": "But Does That Include You",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/EMgX4ed/"
+      },
+      "last_updated": 1517193659
+    },
+    "281": {
+      "title": "Desire, Will And Emotions",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/8bO2RKm/"
+      },
+      "last_updated": 1517193682
+    },
+    "282": {
+      "title": "It\u2019ll Turn Him On",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/BrPguOV/"
+      },
+      "last_updated": 1621219313
+    },
+    "283": {
+      "title": "Kyoto's Hachiko (190cm)",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/gy4maSx/"
+      },
+      "last_updated": 1517193720
+    },
+    "284": {
+      "title": "Everyone's Shimizu-kun",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/H39utJR/"
+      },
+      "last_updated": 1517193735
+    },
+    "285": {
+      "title": "The Raw Material is Good",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/vuRYdah/"
+      },
+      "last_updated": 1517193750
+    },
+    "286": {
+      "title": "Lonelier Than a Loner",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/qQCVnGf/"
+      },
+      "last_updated": 1517193776
+    },
+    "287": {
+      "title": "Dazed",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/QdA5um8/"
+      },
+      "last_updated": 1517193792
+    },
+    "288": {
+      "title": "Her Limit",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/yxWaiop/"
+      },
+      "last_updated": 1517193810
+    },
+    "289": {
+      "title": "A Gap",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/HeZBuvt/"
+      },
+      "last_updated": 1517193825
+    },
+    "290": {
+      "title": "A Prince",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Ot7Exrt/"
+      },
+      "last_updated": 1517193843
+    },
+    "291": {
+      "title": "Nothing He Could Do",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/BxEqtiD/"
+      },
+      "last_updated": 1517193865
+    },
+    "292": {
+      "title": "Kindness",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/faFrXsu/"
+      },
+      "last_updated": 1517193884
+    },
+    "293": {
+      "title": "Meanwhile",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/uQ3bE2A/"
+      },
+      "last_updated": 1517193903
+    },
+    "294": {
+      "title": "Exposed",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/KxJmFDK/"
+      },
+      "last_updated": 1517193918
+    },
+    "295": {
+      "title": "Machine Gun Interrogation",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/aKfuloL/"
+      },
+      "last_updated": 1517193933
+    },
+    "296": {
+      "title": "Brutal",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/yo14s3A/"
+      },
+      "last_updated": 1517193968
+    },
+    "297": {
+      "title": "Farewell My First Love",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/tu0YoNR/"
+      },
+      "last_updated": 1517193987
+    },
+    "298": {
+      "title": "First Time Ride is Free",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Dvmw7Bb/"
+      },
+      "last_updated": 1517194004
+    },
+    "299": {
+      "title": "A Straight-Man's Primal Instincts",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/BnLH7oC/"
+      },
+      "last_updated": 1517194024
+    },
+    "300": {
+      "title": "Second Confession",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/C9FXFJP/"
+      },
+      "last_updated": 1517194040
+    },
+    "301": {
+      "title": "The Answer is",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/zDrx8DF/"
+      },
+      "last_updated": 1517194776
+    },
+    "302": {
+      "title": "Life is Unfair",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/w6bmZCJ/"
+      },
+      "last_updated": 1517194793
+    },
+    "303": {
+      "title": "Chivalry",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/hkYGiea/"
+      },
+      "last_updated": 1517194813
+    },
+    "304": {
+      "title": "Thus Spoke Mana-san",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/fHYxZbI/"
+      },
+      "last_updated": 1517194848
+    },
+    "305": {
+      "title": "That Should Include Me",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/4TEhT9r/"
+      },
+      "last_updated": 1517194864
+    },
+    "306": {
+      "title": "Infectious Delusions",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/w2GFuI4/"
+      },
+      "last_updated": 1517194887
+    },
+    "307": {
+      "title": "Rakuchu Soccer \u00e2\u02dc\u2020 3rd Year - Group Chat",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xcyNtrb/"
+      },
+      "last_updated": 1621219326
+    },
+    "308": {
+      "title": "Even His Delusions",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/d0v3n7A/"
+      },
+      "last_updated": 1517194921
+    },
+    "309": {
+      "title": "If This Goes On",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PoONlGB/"
+      },
+      "last_updated": 1517194938
+    },
+    "310": {
+      "title": "Will Disappear",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/WCcSmid/"
+      },
+      "last_updated": 1517194954
+    },
+    "311": {
+      "title": "Different Than Last Time",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ne6mLob/"
+      },
+      "last_updated": 1517194978
+    },
+    "311.5": {
+      "title": "Volume 03 Extras",
+      "volume": "3",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/EXUMK3l/"
+      },
+      "last_updated": 1517195036
+    },
+    "312": {
+      "title": "Let Me Say It",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/BYQyOnx/"
+      },
+      "last_updated": 1517195061
+    },
+    "313": {
+      "title": "Misunderstandings Continue",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/7eZ0Gqv/"
+      },
+      "last_updated": 1517195079
+    },
+    "314": {
+      "title": "What",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/XczaNMA/"
+      },
+      "last_updated": 1517195107
+    },
+    "315": {
+      "title": "A Certain Student's Weekend",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/4dcTRYV/"
+      },
+      "last_updated": 1517195128
+    },
+    "316": {
+      "title": "Difference in Opinions",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/97F7SWG/"
+      },
+      "last_updated": 1517195156
+    },
+    "317": {
+      "title": "Giving His First Impression",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/BKj87v0/"
+      },
+      "last_updated": 1517195174
+    },
+    "318": {
+      "title": "Okay",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/KGtXRSE/"
+      },
+      "last_updated": 1517195193
+    },
+    "319": {
+      "title": "Includes the Suffering",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/nb3rDlD/"
+      },
+      "last_updated": 1517195210
+    },
+    "320": {
+      "title": "She Knows How it Works",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/6t0V2HN/"
+      },
+      "last_updated": 1517195227
+    },
+    "321": {
+      "title": "Even If It\u2019s Not Love",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/NLHGgiB/"
+      },
+      "last_updated": 1621219276
+    },
+    "322": {
+      "title": "It Could Be Love",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/oGqr2gW/"
+      },
+      "last_updated": 1517195270
+    },
+    "323": {
+      "title": "Now What",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/KHneLbH/"
+      },
+      "last_updated": 1517195288
+    },
+    "324": {
+      "title": "Catfight",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/AlHzEdN/"
+      },
+      "last_updated": 1517195303
+    },
+    "325": {
+      "title": "Not A Diss",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/dB0zo4a/"
+      },
+      "last_updated": 1517195319
+    },
+    "326": {
+      "title": "Dead On With The Topic",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/pQaBskn/"
+      },
+      "last_updated": 1517273455
+    },
+    "327": {
+      "title": "You Don't Get It!",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/DIFjQZF/"
+      },
+      "last_updated": 1517273477
+    },
+    "328": {
+      "title": "Who's Wrong Here",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/SCw3Nft/"
+      },
+      "last_updated": 1517273491
+    },
+    "329": {
+      "title": "Exactly",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/bInZ2Ax/"
+      },
+      "last_updated": 1517273504
+    },
+    "330": {
+      "title": "The Summer Where Nothing Happened",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/JtkXuhN/"
+      },
+      "last_updated": 1517273517
+    },
+    "331": {
+      "title": "The Face of Joy",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/uNTpNiP/"
+      },
+      "last_updated": 1517273539
+    },
+    "332": {
+      "title": "Her Conclusion (For Now)",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/66mjaDo/"
+      },
+      "last_updated": 1517273554
+    },
+    "333": {
+      "title": "Uniform Number",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/7Gzq0Qb/"
+      },
+      "last_updated": 1517273571
+    },
+    "334": {
+      "title": "Dilemma",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/3jLRFNH/"
+      },
+      "last_updated": 1517273583
+    },
+    "335": {
+      "title": "More Crying People",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/RcjqkTh/"
+      },
+      "last_updated": 1517273610
+    },
+    "336": {
+      "title": "The School Lunch Quintet",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/EnKFU9d/"
+      },
+      "last_updated": 1517273632
+    },
+    "337": {
+      "title": "Hawaii",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/V6TOG6m/"
+      },
+      "last_updated": 1517273646
+    },
+    "338": {
+      "title": "A Beacon of Hope",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/utPzNqc/"
+      },
+      "last_updated": 1517273664
+    },
+    "339": {
+      "title": "Anomalous Situation",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/A2vwk6b/"
+      },
+      "last_updated": 1517273686
+    },
+    "340": {
+      "title": "Career Planning",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/LMHv1h3/"
+      },
+      "last_updated": 1517273703
+    },
+    "341": {
+      "title": "Silent Attention Seeker",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Yjaw5zp/"
+      },
+      "last_updated": 1517273727
+    },
+    "342": {
+      "title": "The Perfect School Festival",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/U285uyx/"
+      },
+      "last_updated": 1517273742
+    },
+    "343": {
+      "title": "A Storm",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ksJZKpa/"
+      },
+      "last_updated": 1517273755
+    },
+    "344": {
+      "title": "Mana\u2019s Wish",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/FdmwSR9/"
+      },
+      "last_updated": 1621219324
+    },
+    "345": {
+      "title": "Toda\u2019s Wish",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/YTJvUjQ/"
+      },
+      "last_updated": 1621219208
+    },
+    "346": {
+      "title": "Caught Being Interested",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/88zzlam/"
+      },
+      "last_updated": 1517273821
+    },
+    "347": {
+      "title": "Smile",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/kC0fSKe/"
+      },
+      "last_updated": 1517273834
+    },
+    "348": {
+      "title": "She Means It",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/L7dnhF4/"
+      },
+      "last_updated": 1517273849
+    },
+    "349": {
+      "title": "Because Of Everyone",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/GFJn9N6/"
+      },
+      "last_updated": 1517273864
+    },
+    "350": {
+      "title": "I Hate Horror",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/KAkigyA/"
+      },
+      "last_updated": 1517273883
+    },
+    "351": {
+      "title": "You\u2019re Flattering Me",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/rqYngR4/"
+      },
+      "last_updated": 1621219318
+    },
+    "352": {
+      "title": "Away Game",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/BFI4XhN/"
+      },
+      "last_updated": 1517288311
+    },
+    "353": {
+      "title": "You Never Do Anything",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/LXPWpSG/"
+      },
+      "last_updated": 1517288336
+    },
+    "354": {
+      "title": "Classmate",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/h56UlYX/"
+      },
+      "last_updated": 1517288359
+    },
+    "355": {
+      "title": "Great News",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/dB4GGjC/"
+      },
+      "last_updated": 1517288372
+    },
+    "356": {
+      "title": "A Silent Yell",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/6zEhYsV/"
+      },
+      "last_updated": 1517288394
+    },
+    "357": {
+      "title": "Never Letting You Go",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/BSgIGQ1/"
+      },
+      "last_updated": 1517288409
+    },
+    "358": {
+      "title": "Her Inaudible Disappointment",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/98lXpk2/"
+      },
+      "last_updated": 1517288424
+    },
+    "359": {
+      "title": "People Change",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/TiKHgXy/"
+      },
+      "last_updated": 1517288435
+    },
+    "360": {
+      "title": "Breaking Her Heart",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/wl1JxC4/"
+      },
+      "last_updated": 1517288451
+    },
+    "361": {
+      "title": "Her Unchanging Self",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xXLdDfD/"
+      },
+      "last_updated": 1517288472
+    },
+    "362": {
+      "title": "More Than Just Out of Politeness",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/CniOA8q/"
+      },
+      "last_updated": 1517288489
+    },
+    "363": {
+      "title": "Not Willing to Understand",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/6brmGKw/"
+      },
+      "last_updated": 1517288504
+    },
+    "364": {
+      "title": "Just for Today",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/prrcUXi/"
+      },
+      "last_updated": 1517288525
+    },
+    "365": {
+      "title": "Falling Short of His Expectations",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/mTjVlR7/"
+      },
+      "last_updated": 1517288540
+    },
+    "366": {
+      "title": "Everyone Makes Mistakes",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/qOzRaIZ/"
+      },
+      "last_updated": 1517288559
+    },
+    "367": {
+      "title": "The Phantom Of His Regret",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ncZdsYt/"
+      },
+      "last_updated": 1517288574
+    },
+    "368": {
+      "title": "You Have No Clue",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PBPzGM4/"
+      },
+      "last_updated": 1517288589
+    },
+    "369": {
+      "title": "Now It\u2019s My Turn",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/g0EzWij/"
+      },
+      "last_updated": 1621219147
+    },
+    "370": {
+      "title": "That\u2019s Why Shimizu is so Great",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/WrrqUyq/"
+      },
+      "last_updated": 1621219290
+    },
+    "371": {
+      "title": "Hey, You Made Her Cry~",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/qPowRPV/"
+      },
+      "last_updated": 1517288653
+    },
+    "372": {
+      "title": "You Gotta Go Home Some Day",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/wxHKRcf/"
+      },
+      "last_updated": 1517288666
+    },
+    "373": {
+      "title": "A Nuisance",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/jasdeVc/"
+      },
+      "last_updated": 1517288679
+    },
+    "374": {
+      "title": "Chapter 29",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/1v6OwYl/"
+      },
+      "last_updated": 1517288694
+    },
+    "375": {
+      "title": "Two Idiots",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/expHN0D/"
+      },
+      "last_updated": 1517288707
+    },
+    "376": {
+      "title": "Welcome Back",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/LMZtn3m/"
+      },
+      "last_updated": 1517361908
+    },
+    "377": {
+      "title": "The Magical Phrase",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Bl98g5r/"
+      },
+      "last_updated": 1517361923
+    },
+    "378": {
+      "title": "Confession",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/JblqJNc/"
+      },
+      "last_updated": 1517361936
+    },
+    "379": {
+      "title": "Brenda",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PSax8xS/"
+      },
+      "last_updated": 1517361946
+    },
+    "380": {
+      "title": "Realized Once Again",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/E1yUyvO/"
+      },
+      "last_updated": 1517361956
+    },
+    "381": {
+      "title": "Allergy",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/RYmFBNj/"
+      },
+      "last_updated": 1517361973
+    },
+    "382": {
+      "title": "Meeting Eyes",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Foz296K/"
+      },
+      "last_updated": 1517361984
+    },
+    "383": {
+      "title": "Yeey~",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/G2Nc3ed/"
+      },
+      "last_updated": 1517361996
+    },
+    "384": {
+      "title": "An Actual Genius",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/gOaCvZc/"
+      },
+      "last_updated": 1517362008
+    },
+    "385": {
+      "title": "Just Her Personal Point of View",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/74gQtya/"
+      },
+      "last_updated": 1517362018
+    },
+    "386": {
+      "title": "Her Original Form",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/jQgdcX4/"
+      },
+      "last_updated": 1517362033
+    },
+    "387": {
+      "title": "Because You Worked So Hard",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/hDrBzTr/"
+      },
+      "last_updated": 1517362044
+    },
+    "388": {
+      "title": "Don\u2019t Get Too Excited",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PvrEODP/"
+      },
+      "last_updated": 1621219217
+    },
+    "389": {
+      "title": "Mental Rehearsal",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Yph5uQ9/"
+      },
+      "last_updated": 1517362064
+    },
+    "390": {
+      "title": "Might As Well Just Kill Me",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/4rqeQCj/"
+      },
+      "last_updated": 1517362075
+    },
+    "391": {
+      "title": "Don't Use Four Point Restraints",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Yi7imyo/"
+      },
+      "last_updated": 1517362092
+    },
+    "392": {
+      "title": "Seeking His Attention",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Vu6ZYBM/"
+      },
+      "last_updated": 1517362102
+    },
+    "393": {
+      "title": "Promise For Tomorrow",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/SCBrB0P/"
+      },
+      "last_updated": 1517362112
+    },
+    "394": {
+      "title": "An Unexpected Side",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/LdYZUZv/"
+      },
+      "last_updated": 1517362122
+    },
+    "395": {
+      "title": "He Was a Pro",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/IUqNh94/"
+      },
+      "last_updated": 1517362133
+    },
+    "396": {
+      "title": "A Barrier",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/1XaChYn/"
+      },
+      "last_updated": 1517362147
+    },
+    "397": {
+      "title": "Difficult",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ZWi84QQ/"
+      },
+      "last_updated": 1517362160
+    },
+    "398": {
+      "title": "The Feeling of Approval",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/IbK7EPc/"
+      },
+      "last_updated": 1517362171
+    },
+    "399": {
+      "title": "Exposed",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/W0RWdHV/"
+      },
+      "last_updated": 1517362182
+    },
+    "400": {
+      "title": "Yesterday's Promise",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/9YVXDbG/"
+      },
+      "last_updated": 1517362192
+    },
+    "401": {
+      "title": "When She\u2019s Dense Too",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/8iFjc8q/"
+      },
+      "last_updated": 1621219147
+    },
+    "402": {
+      "title": "High School Life",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/dwiVai8/"
+      },
+      "last_updated": 1517364309
+    },
+    "403": {
+      "title": "She Finally Realizes",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/zez4MR1/"
+      },
+      "last_updated": 1517364321
+    },
+    "404": {
+      "title": "Special Treatment",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/PIU7tah/"
+      },
+      "last_updated": 1517364336
+    },
+    "405": {
+      "title": "What is Love",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/XImXrjj/"
+      },
+      "last_updated": 1517364349
+    },
+    "406": {
+      "title": "An Encounter",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/eyG46vy/"
+      },
+      "last_updated": 1517364366
+    },
+    "407": {
+      "title": "Oh, He Had One",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/DUYM8VS/"
+      },
+      "last_updated": 1517364377
+    },
+    "408": {
+      "title": "Get a Lead At the Turn",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/TEL8QuD/"
+      },
+      "last_updated": 1517364387
+    },
+    "409": {
+      "title": "Kinda Unhappy Even Though She Understands",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/vwbQUFq/"
+      },
+      "last_updated": 1517364398
+    },
+    "410": {
+      "title": "Bribery.",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/FDyAnTl/"
+      },
+      "last_updated": 1517364414
+    },
+    "411": {
+      "title": "Even Nakano is Aware",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/LgFzEpK/"
+      },
+      "last_updated": 1517364439
+    },
+    "412": {
+      "title": "Manifest",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/q4HJbXO/"
+      },
+      "last_updated": 1517364452
+    },
+    "413": {
+      "title": "Spot the Difference",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/KUWqdKq/"
+      },
+      "last_updated": 1517364465
+    },
+    "414": {
+      "title": "Crumbling Down",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Jcu5hyh/"
+      },
+      "last_updated": 1517364477
+    },
+    "415": {
+      "title": "Welcome",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/OaFrDcb/"
+      },
+      "last_updated": 1517364487
+    },
+    "416": {
+      "title": "To the Hell of Colours",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/OMkToNf/"
+      },
+      "last_updated": 1517364506
+    },
+    "416.5": {
+      "title": "Volume 04 Extras",
+      "volume": "4",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/cSbHvb6/"
+      },
+      "last_updated": 1517364541
+    },
+    "417": {
+      "title": "A Psychopath",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/co5hPXx/"
+      },
+      "last_updated": 1517364560
+    },
+    "418": {
+      "title": "What's Gotten Into You",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/GUNi4IQ/"
+      },
+      "last_updated": 1517364570
+    },
+    "419": {
+      "title": "Mana's Ego",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/6Zfi397/"
+      },
+      "last_updated": 1517364581
+    },
+    "420": {
+      "title": "Something He Already Knew",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/cBPlo0e/"
+      },
+      "last_updated": 1517364594
+    },
+    "421": {
+      "title": "Rambling",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Rfydkzb/"
+      },
+      "last_updated": 1517364612
+    },
+    "422": {
+      "title": "From 1 to 100",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/x1neOjx/"
+      },
+      "last_updated": 1517364623
+    },
+    "423": {
+      "title": "Physically Waking Her Up",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/fNgG6uu/"
+      },
+      "last_updated": 1517364634
+    },
+    "424": {
+      "title": "Eye to an Eye",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/P3IyWJW/"
+      },
+      "last_updated": 1517364643
+    },
+    "425": {
+      "title": "The Only Sensible Choice",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/tsRFfgb/"
+      },
+      "last_updated": 1517364654
+    },
+    "426": {
+      "title": "Paid Services",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/FrAodOa/"
+      },
+      "last_updated": 1517370269
+    },
+    "427": {
+      "title": "She's There",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/A9Y0OcC/"
+      },
+      "last_updated": 1517370283
+    },
+    "428": {
+      "title": "A Ghost Going Outside",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/TwhQGdM/"
+      },
+      "last_updated": 1517370296
+    },
+    "429": {
+      "title": "Before the Colours Start to Kick in Again",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/3AnP2DR/"
+      },
+      "last_updated": 1517370308
+    },
+    "430": {
+      "title": "Calm Down",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/KdI5W8P/"
+      },
+      "last_updated": 1517370322
+    },
+    "431": {
+      "title": "What's Wrong With It",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/QpD0lYy/"
+      },
+      "last_updated": 1517370339
+    },
+    "432": {
+      "title": "No More Please",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/XY2ccw5/"
+      },
+      "last_updated": 1517370351
+    },
+    "433": {
+      "title": "A Direct Order of Submission",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/QCfYdAB/"
+      },
+      "last_updated": 1517370361
+    },
+    "434": {
+      "title": "Virtual Reality",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/69fx7Wp/"
+      },
+      "last_updated": 1517370372
+    },
+    "435": {
+      "title": "All Along",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/pAQtQzn/"
+      },
+      "last_updated": 1517370501
+    },
+    "436": {
+      "title": "No Use Talking To You Right Now",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ioW2E72/"
+      },
+      "last_updated": 1517370564
+    },
+    "437": {
+      "title": "An Experiment at Mana Laboratories",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/zPiVYg6/"
+      },
+      "last_updated": 1517370576
+    },
+    "438": {
+      "title": "Putting the Pieces Together",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/6UfpNeT/"
+      },
+      "last_updated": 1517370590
+    },
+    "439": {
+      "title": "Just Laugh It Off",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/08U25MQ/"
+      },
+      "last_updated": 1517370601
+    },
+    "440": {
+      "title": "Huh",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/g0XM90n/"
+      },
+      "last_updated": 1517370612
+    },
+    "441": {
+      "title": "Starting From There",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/qIGaObS/"
+      },
+      "last_updated": 1517370628
+    },
+    "442": {
+      "title": "The Pain Was All Real",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/1AZGfJI/"
+      },
+      "last_updated": 1517370639
+    },
+    "443": {
+      "title": "Proposal",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/yney2CL/"
+      },
+      "last_updated": 1517370654
+    },
+    "444": {
+      "title": "Going Pale",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Ux1EosC/"
+      },
+      "last_updated": 1517370664
+    },
+    "445": {
+      "title": "Dropping a Bombshell",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/YhUR5EP/"
+      },
+      "last_updated": 1517370675
+    },
+    "446": {
+      "title": "Seems Like you Finally Noticed",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/OghRe4y/"
+      },
+      "last_updated": 1517370859
+    },
+    "447": {
+      "title": "Too Late, You Thought About It",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/jQrM0Lr/"
+      },
+      "last_updated": 1517370870
+    },
+    "448": {
+      "title": "I'm Honestly Hurt",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/iRGrLrW/"
+      },
+      "last_updated": 1517370882
+    },
+    "449": {
+      "title": "Bummed Out",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Xw55kDx/"
+      },
+      "last_updated": 1517370892
+    },
+    "450": {
+      "title": "N.T. Field",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/bYUdflF/"
+      },
+      "last_updated": 1517370902
+    },
+    "451": {
+      "title": "I\u2019d Let This Slide",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/F1LulJK/"
+      },
+      "last_updated": 1621219142
+    },
+    "452": {
+      "title": "Sounds Good",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/EZ6k4bn/"
+      },
+      "last_updated": 1517371360
+    },
+    "453": {
+      "title": "You Just Have to Ask Him Out",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/GGElEvr/"
+      },
+      "last_updated": 1517371373
+    },
+    "454": {
+      "title": "Deciding What a Person Thinks",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/wbYbG1I/"
+      },
+      "last_updated": 1517371385
+    },
+    "455": {
+      "title": "Is This a Date",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Yt1hk8D/"
+      },
+      "last_updated": 1517371396
+    },
+    "456": {
+      "title": "You Played Yourself",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/BKT49Mm/"
+      },
+      "last_updated": 1517371412
+    },
+    "457": {
+      "title": "That's Super Rude",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/YBW20eG/"
+      },
+      "last_updated": 1517371425
+    },
+    "458": {
+      "title": "Weaknesses",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/y2r9PsR/"
+      },
+      "last_updated": 1517371641
+    },
+    "459": {
+      "title": "Looks Aren't Everything",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/gjJqDXs/"
+      },
+      "last_updated": 1517371658
+    },
+    "460": {
+      "title": "For a Little Longer",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/fBCM47k/"
+      },
+      "last_updated": 1517371673
+    },
+    "461": {
+      "title": "Kept You Waiting",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ukR1rjw/"
+      },
+      "last_updated": 1517371691
+    },
+    "462": {
+      "title": "Upon Close Inspection",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/stPJAs0/"
+      },
+      "last_updated": 1517371703
+    },
+    "463": {
+      "title": "No Way Out",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/84Z4CJ4/"
+      },
+      "last_updated": 1517371714
+    },
+    "464": {
+      "title": "Force-Quit",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ZB59505/"
+      },
+      "last_updated": 1517371725
+    },
+    "465": {
+      "title": "He's Blushing",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/TlhSy8H/"
+      },
+      "last_updated": 1517371738
+    },
+    "466": {
+      "title": "Meanwhile, Azuma-san",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/bl0coTh/"
+      },
+      "last_updated": 1517371750
+    },
+    "467": {
+      "title": "Sloppy, But It'll Do",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/3MV1VsE/"
+      },
+      "last_updated": 1517371762
+    },
+    "468": {
+      "title": "Just Do It",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/3Uh0yQi/"
+      },
+      "last_updated": 1517371780
+    },
+    "469": {
+      "title": "Can't Act",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/GMmVBul/"
+      },
+      "last_updated": 1517446933
+    },
+    "470": {
+      "title": "Self-Preservation",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xmPwO3C/"
+      },
+      "last_updated": 1517446948
+    },
+    "471": {
+      "title": "Playing Him Up",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/osuqJbU/"
+      },
+      "last_updated": 1517446962
+    },
+    "472": {
+      "title": "Nakano Ayako is an Idiot",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/TDIoHCl/"
+      },
+      "last_updated": 1517446973
+    },
+    "473": {
+      "title": "Her Own Fantasies",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/y0HuOB4/"
+      },
+      "last_updated": 1517446987
+    },
+    "474": {
+      "title": "Balanced Out",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/6z79unV/"
+      },
+      "last_updated": 1517446998
+    },
+    "475": {
+      "title": "Honesty",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/YPL8WUl/"
+      },
+      "last_updated": 1517447008
+    },
+    "476": {
+      "title": "Mana Has Taken the Lead",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/VYK9QtF/"
+      },
+      "last_updated": 1517447027
+    },
+    "477": {
+      "title": "Now or Never",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/MeTu4K5/"
+      },
+      "last_updated": 1517447038
+    },
+    "478": {
+      "title": "Even the Densest Idiot Would Realize",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/HoegZFQ/"
+      },
+      "last_updated": 1517447050
+    },
+    "479": {
+      "title": "Desire and Self-Defense",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/GFBLVyE/"
+      },
+      "last_updated": 1517447062
+    },
+    "480": {
+      "title": "He's a Living Animal",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xr6LdWj/"
+      },
+      "last_updated": 1517447072
+    },
+    "481": {
+      "title": "At His Gaze",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/YVFFSq0/"
+      },
+      "last_updated": 1517447086
+    },
+    "482": {
+      "title": "From Etou-san's Point of View",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/OvLfZwG/"
+      },
+      "last_updated": 1517447096
+    },
+    "483": {
+      "title": "Appearances (v.2)",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/Z5OijPm/"
+      },
+      "last_updated": 1517447107
+    },
+    "484": {
+      "title": "You're the Real Heroine",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/EzlQYuR/"
+      },
+      "last_updated": 1517447118
+    },
+    "485": {
+      "title": "What Did You Expect",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/1ynsqhi/"
+      },
+      "last_updated": 1517447129
+    },
+    "486": {
+      "title": "Observing Big Brother",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/J9Zguxs/"
+      },
+      "last_updated": 1517447141
+    },
+    "487": {
+      "title": "Together With the Sister",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ykwbuHr/"
+      },
+      "last_updated": 1517447157
+    },
+    "488": {
+      "title": "Consuming Grudge",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/lycI1OD/"
+      },
+      "last_updated": 1517447168
+    },
+    "489": {
+      "title": "Little Sister >>> Big Brother",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/CINl3FN/"
+      },
+      "last_updated": 1621219302
+    },
+    "490": {
+      "title": "Honorifics",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/69roLUH/"
+      },
+      "last_updated": 1517447191
+    },
+    "491": {
+      "title": "A Question",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/ue4vZLO/"
+      },
+      "last_updated": 1517447202
+    },
+    "492": {
+      "title": "Playing Around",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/AfFOJ7f/"
+      },
+      "last_updated": 1517447212
+    },
+    "493": {
+      "title": "Expectations and Reality",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/xlN6XEC/"
+      },
+      "last_updated": 1517447222
+    },
+    "494": {
+      "title": "Everyone\u2019s a Role Model",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/MuxvlwL/"
+      },
+      "last_updated": 1621219302
+    },
+    "495": {
+      "title": "Mom >> Little Sister >>> Big Brother",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/KcEGQie/"
+      },
+      "last_updated": 1621219292
+    },
+    "496": {
+      "title": "A Broken Man",
+      "volume": "5",
+      "groups": {
+        "Helvetica Scans": "/proxy/api/imgur/chapter/YaGlvsh/"
+      },
+      "last_updated": 1517447261
+    }
+  },
+  "cover": "https://i.imgur.com/jDyk9zY.png"
+}
